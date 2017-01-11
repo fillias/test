@@ -1,5 +1,4 @@
 opravdu preloz do morse
-test zmena v comitu
 ..-...-
 sdfsdf
 zadny morse code
