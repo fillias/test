@@ -1,4 +1,4 @@
-neprekladej do morse
+opravdu preloz do morse
 ..-...-
 sdfsdf
 zadny morse code
