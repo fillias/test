@@ -1,4 +1,4 @@
-preloz do morse
+opravdu preloz do morse
 ..-...-
 sdfsdf
 ahoj tady readme
