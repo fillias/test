@@ -1,4 +1,3 @@
-commit omlyl
 opravdu preloz do morse
 ..-...-
 sdfsdf
